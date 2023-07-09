@@ -19,7 +19,7 @@ These instructions will help you set up the project on your local machine for de
 
 1. Clone the repository:
     ```
-    git clone https://github.com/Ravi24242424/for_AWS_deploy_web_scrap.git
+    git clone https://github.com/AdarshBarnwal/AWS_Deployment_Webscrap.git
     ```
 
 2. Change into the project directory:
@@ -74,7 +74,7 @@ To deploy the application on AWS using Elastic Beanstalk, follow these instructi
 
 ## Author
 
-- **Ravi Kumar** - [Ravi24242424](https://github.com/Ravi24242424)
+- **Adarsh Barnwal** - [AdarshBarnwal](https://github.com/AdarshBarnwal)
 
 ## License
 
